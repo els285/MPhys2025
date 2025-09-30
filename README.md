@@ -2,7 +2,7 @@
 Common repository for 2025-26 MPhys work
 
 <img width="256" height="256" alt="ChatGPT Image May 8, 2025, 11_34_51 AM" src="https://github.com/user-attachments/assets/942f64d8-1ecc-4cac-b0b0-519774627597" />
-<img width="500" height="330" alt="image" src="https://github.com/user-attachments/assets/32754952-1f47-46d1-982c-2d35f5a92c61" />
+<img width="388" height="259" alt="image" src="https://github.com/user-attachments/assets/32754952-1f47-46d1-982c-2d35f5a92c61" />
 
 
 
