@@ -25,6 +25,7 @@ Covers:
 
 #### PyTorch Tutorials
 [PyTorch](https://docs.pytorch.org/tutorials/)
+
 [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
 
 #### Manchester resources
