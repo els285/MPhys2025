@@ -1,6 +1,9 @@
 # MPhys2025
 Common repository for 2025-26 MPhys work
 
+<img width="1024" height="1024" alt="ChatGPT Image May 8, 2025, 11_34_51 AM" src="https://github.com/user-attachments/assets/942f64d8-1ecc-4cac-b0b0-519774627597" />
+
+
 # Learning outcomes
 * Proficiency in PyTorch (possibly extending to tools like PyTorch-Lightning)
 * Proficiency in data analysis for particle physics with Scikit-HEP stack
