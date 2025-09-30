@@ -4,7 +4,9 @@ Common repository for 2025-26 MPhys work
 <img width="256" height="256" alt="ChatGPT Image May 8, 2025, 11_34_51 AM" src="https://github.com/user-attachments/assets/942f64d8-1ecc-4cac-b0b0-519774627597" />
 <img width="388" height="259" alt="image" src="https://github.com/user-attachments/assets/32754952-1f47-46d1-982c-2d35f5a92c61" />
 
-
+# Google Drive Storage
+We will store datasets on this Google Drive.
+[Link to Google Drive](https://drive.google.com/drive/folders/1zteNmkQa9EV_ZfvHS91jHaT1o9bDR-_C?usp=sharing)
 
 # Learning outcomes
 * Proficiency in PyTorch (possibly extending to tools like PyTorch-Lightning)
@@ -22,6 +24,10 @@ Common repository for 2025-26 MPhys work
 * Adding in generative techniques for ttbar spin measurements
 
 # Tutorials and documentation
+
+### Slides on Intro2ML for Particle Physics [here](https://drive.google.com/file/d/17f46cMSA29RENtD4lB0MjeoLFmBOVhHA/view?usp=drive_link)
+High-level overview (given to undergraduates); should give you the flavour of the field.
+
 ### Intro to ML 4 Physicists (by Ethan) [here](https://github.com/els285/Intro2NN4Physics/tree/main)
 Covers:
   * Using the scikit-hep stack for HEP data analysis
