@@ -17,27 +17,26 @@ Common repository for 2025-26 MPhys work
 * Adding in generative techniques for ttbar spin measurements
 
 # Tutorials and documentation
-#### Intro to ML 4 Physicists (by Ethan) [here](https://github.com/els285/Intro2NN4Physics/tree/main)
+### Intro to ML 4 Physicists (by Ethan) [here](https://github.com/els285/Intro2NN4Physics/tree/main)
 Covers:
   * Using the scikit-hep stack for HEP data analysis
   * Pedagogical introduction to classical ML with PyTorch
   * Building a DNN with PyTorch for signal/background classification
 
-#### PyTorch Tutorials
+### PyTorch Tutorials
 [PyTorch](https://docs.pytorch.org/tutorials/)
 
 [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
 
-#### Manchester resources
+### Manchester resources
 [Manchester Computational Shared Facility](https://ri.itservices.manchester.ac.uk/csf3) - UoM computing infrastructure with access to GPUs
 I will get you set up here in due course.
 
 # Literature
 
-
 # Working practices
 This research will be computationally heavy, and we will do everything in Python. Recommend to be comfortable working in iPython notebooks (Jupyter Notebook, Google Colab, VSCode).
-Recommend using VSCode or similar IDE for coding (VSCode is the best). Will also need access to a terminal (CLI).
+Recommend using VSCode or similar IDE for coding (VSCode is the best). Will also need access to a terminal (CLI). Good to learn to use GIT in due course.
 
 
 
