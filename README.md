@@ -44,6 +44,28 @@ Covers:
 I will get you set up here in due course.
 
 # Literature
+### Introductions to Particle Physcs
+* _Particles Physics_, Martin & Shaw
+* _Introduction to Elementary Particle Physics_, Griffiths
+
+### Machine Learning in HEP
+[HEP ML Living Review](https://iml-wg.github.io/HEPML-LivingReview/)
+
+### Reconstructing Kinematics of Top Quarks and Higgs Bosons
+[HyPER paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.032004). Uses a graph neural network encoder and then a "hyperedge layer"
+[SPANet - the HyPER competitor](https://www.nature.com/articles/s42005-024-01627-4). Uses a transformer encoder and tries to consider some physics symmetries.
+[Nu2-Flows](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.012005). Uses a transformer encoder and a normalising flow.
+
+### Mask-Formers
+[Original META MaskFormer paper](https://arxiv.org/abs/2107.06278)
+[Latest example of MaskFormer in HEP](https://arxiv.org/abs/2508.20092). Uses the MaskFormer for effectively building the objects we see in the detector.
+
+# Interesting code-bases
+[MAncHEP-AI](https://github.com/els285/MancHEP-AI). A wrapper we have designed for models we train here in Manchester. A work in progress. Perhaps we can move our models here into this format down the line.
+[SummerProject25 Transformer](https://github.com/youlin-meng/Particle_Transformer/tree/main)
+[hep-attn](https://github.com/samvanstroud/hepattn/tree/main). An implementation of the MaskFormer for the above GLOW paper. We can hopefully use some of this.
+
+
 
 # Working practices
 This research will be computationally heavy, and we will do everything in Python. Recommend to be comfortable working in iPython notebooks (Jupyter Notebook, Google Colab, VSCode).
