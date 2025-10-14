@@ -1,5 +1,16 @@
 # New CSF Instructions
 
+CSF is the computing cluster I use for training models on GPUs.
+You need to use a terminal for this and `ssh` in e.g.
+```
+ssh <username>@csf3.itservices.manchester.ac.uk
+```
+where you will then be prompted for your password and will have to do two-factor authentication.
+
+You can also access CSF through the `Remote-SSH` extension to VSCode (although you may have to fiddle with the parameters of the `Remote-SSH` extension).
+
+## GPU on CSF
+
 Main instructions for GPUs on CSF3 [here](https://ri.itservices.manchester.ac.uk/csf3/batch-slurm/gpu-jobs-slurm/)
 
 
